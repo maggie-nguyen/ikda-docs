@@ -1,0 +1,19 @@
+{
+  "index": {
+    "title": "Home",
+    "type": "page",
+    "display": "hidden"
+  },
+  "support": {
+    "title": "Support",
+    "type": "page"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "type": "page"
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "type": "page"
+  }
+}
